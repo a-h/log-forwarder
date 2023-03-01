@@ -1,4 +1,4 @@
-# log-forwarded
+# log-forwarder
 
 WARNING: This is a PoC, don't use this.
 
